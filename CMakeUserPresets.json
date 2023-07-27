@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/jangoo/.conan2/p/b/uartd8096b021880f/b/build/Debug/generators/CMakePresets.json"
+    ]
+}
